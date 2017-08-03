@@ -1,4 +1,8 @@
 <persons>
+ <person>
+   <firstname>S2</firstname>
+   <lastname>S2</lastname>
+ </person>
   <person>
 	<firstname>Mo</firstname>
 	<lastname>Fil</lastname>
